@@ -1,0 +1,13 @@
+{
+  "excludeScenes": [],
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.lesson2",
+  "startScene": "0fd3e178-d10c-454c-a44b-a5eb36038566",
+  "title": "lesson2",
+  "webOrientation": "auto"
+}
